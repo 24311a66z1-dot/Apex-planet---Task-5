@@ -134,6 +134,6 @@ Technology and Furniture profits differ significantly.
 
 # Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/24311a66z1-dot
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aleti-shivani-b352a3376/
